@@ -23,5 +23,5 @@
 2. 将OpenGLtemplate文件夹中的文件复制到项目路径中（即图中红色框中所示）
 3. 将OpenGL1~5文件夹中的文件全部复制到项目路径中（即图中绿色框中所示）
 
-   ![](README\picture1.png)
+   ![README/picture1.png](README/picture1.png)
 4. 参考实验环境配置手册配置在 Visual Studio 设置中配置项目的环境变量和依赖项
